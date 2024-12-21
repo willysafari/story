@@ -1,0 +1,1 @@
+the main three part of web system that is database back end website and front end website
